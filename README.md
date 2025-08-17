@@ -1,6 +1,6 @@
 # Ad-Bidding-CTR-Prediction-Platform
 
-An end-to-end machine learning and engineering project simulating a real-time ad bidding system. This platform predicts Click-Through Rates (CTR) using ML models, processes ad requests, and provides a live analytics dashboard. Perfect for Data Science, ML, and SWE portfolios targeting high-scale companies like FAANG and The Trade Desk.
+An end-to-end machine learning and engineering project simulating a real-time ad bidding system. This platform predicts Click-Through Rates (CTR) using ML models, processes ad requests, and provides a live analytics dashboard. 
 
 ## Features
 
